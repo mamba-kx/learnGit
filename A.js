@@ -1,1 +1,1 @@
-console.log('git history')
+console.log(2);
